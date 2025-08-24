@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm venu madhav</h1>
 <h3 align="center">I am a Computer Science and Engineering (CSE) student with a strong interest in technology and problem-solving. I am passionate about programming, cybersecurity, and learning new skills to build innovative solutions.</h3>
 
