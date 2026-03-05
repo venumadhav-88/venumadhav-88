@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/venu madhav kasaraneni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="venu madhav kasaraneni" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/venumadhavkasaraneni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="venu madhav kasaraneni" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/kl2400031420" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kl2400031420" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kl2400031420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kl2400031420" height="30" width="40" /></a>
 </p>
